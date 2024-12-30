@@ -1,8 +1,5 @@
 ## Hi there(大家好) 👋
 
-<!--
-**goodacao/goodacao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 以下是關於我的介紹:
 
 - 🔭 我是個國小老師，我在台灣省新北巿永和區的中和國小工作。
